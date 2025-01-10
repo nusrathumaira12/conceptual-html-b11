@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#paragraph{
+    color: tomato;
+    
+    /* font-variant: small-caps; */
+    /* font-style: oblique; */
+    /* line-height: 20px;
+    text-transform: lowercase;
+    text-shadow: 4px 0px 10px black ; */
+    font-size: 30px;
+    background-color: bisque;
+    padding: 20px;
+   border-width: 2px;
+   border-color: black;
+   border-style: solid;
+   margin: 30px;
+    
+}
+.noakhali{
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+.image-box{
+    background: gray;
+    text-align: center;
+}
