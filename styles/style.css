@@ -5,3 +5,14 @@
 body{
     background: #ddd;
 }
+.img-box{
+    text-align: center;
+}
+#paragraph{
+    font-size: 30px;
+    background-color: bisque;
+padding: 20px;
+border: 2px solid blue;
+margin: 30px;
+
+}
